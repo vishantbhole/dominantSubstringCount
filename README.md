@@ -1,0 +1,2 @@
+# dominantSubstringCount
+dominantSubstringCount
